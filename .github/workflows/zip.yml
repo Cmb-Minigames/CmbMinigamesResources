@@ -26,7 +26,7 @@ jobs:
       
       - name: Create zip archive
         run: |
-          zip -r "repo_${{ steps.timestamp.outputs.timestamp }}_${{ steps.sha.outputs.sha }}.zip" 
+          zip -r "repo_${{ steps.timestamp.outputs.timestamp }}_${{ steps.sha.outputs.sha }}.zip" . /
       - name: Upload zip artifact
         uses: actions/upload-artifact@v4
         with:
