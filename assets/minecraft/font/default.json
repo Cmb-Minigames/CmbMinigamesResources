@@ -1,0 +1,19 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/players.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\u1F46"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/clock.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\u1F55"]
+            
+        }
+    ]
+}
