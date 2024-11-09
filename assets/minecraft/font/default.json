@@ -12,8 +12,70 @@
             "file": "minecraft:font/clock.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\u1F55"]
-            
+            "chars": ["\u1F55"]   
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/empty_red_point.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\u00AD"]   
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/empty_blue_point.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\u180B"]   
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/claimed_red_point.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\u180D"]   
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/claimed_blue_point.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\u180E"]   
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/question_mark.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["❓"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/owner_name_plate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/tester_name_plate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/moderator_name_plate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/star.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["⭐"]
         }
     ]
 }
