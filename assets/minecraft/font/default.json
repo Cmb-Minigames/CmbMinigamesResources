@@ -79,6 +79,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:font/star.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["🌟"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/low_1.png",
             "ascent": -10,
             "height": 10,
