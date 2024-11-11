@@ -72,6 +72,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:font/developer_name_plate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE00D"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:font/star.png",
             "ascent": -10,
             "height": 10,
