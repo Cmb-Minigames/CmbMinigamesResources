@@ -16,17 +16,9 @@ jobs:
         with:
           fetch-depth: 0
       
-      - name: Get timestamp
-        id: timestamp
-        run: echo "timestamp=$(date +'%Y%m%d_%H%M%S')" >> $GITHUB_OUTPUT
-      
-      - name: Get short SHA
-        id: sha
-        run: echo "sha=$(git rev-parse --short HEAD)" >> $GITHUB_OUTPUT
-      
       - name: Create zip archive
         run: |
-          zip -r "repo_${{ steps.timestamp.outputs.timestamp }}_${{ steps.sha.outputs.sha }}.zip" . \
+          zip -r "CmbMinigames.zip" . \
           -x "*.git*" \
           -x ".github/*" \
           -x "*.zip"
@@ -34,4 +26,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: repository-archive
-          path: "repo_${{ steps.timestamp.outputs.timestamp }}_${{ steps.sha.outputs.sha }}.zip" 
+          path: "CmbMinigames.zip" 
