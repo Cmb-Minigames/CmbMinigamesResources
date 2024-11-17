@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/rl_1",
-		"1": "block/rl_2",
-		"2": "block/rl_3",
-		"3": "block/rl_4",
+		"0": "cmbminigames:block/rl_1",
+		"1": "cmbminigames:block/rl_2",
+		"2": "cmbminigames:block/rl_3",
+		"3": "cmbminigames:block/rl_4",
 		"4": "block/black_concrete",
-		"particle": "block/rl_1"
+		"particle": "cmbminigames:block/rl_1"
 	},
 	"elements": [
 		{

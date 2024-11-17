@@ -8,25 +8,25 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "item/custom/blue_flag"
+            "model": "cmbminigames:item/blue_flag"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "item/custom/red_flag"
+            "model": "cmbminigames:item/red_flag"
         },
         {
             "predicate":{
                 "custom_model_data": 3
             },
-            "model": "item/custom/rocket_launcher"
+            "model": "cmbminigames:item/rocket_launcher"
         },
         {
             "predicate":{
                 "custom_model_data": 4
             },
-            "model": "item/custom/star_shower"
+            "model": "cmbminigames:item/star_shower"
         }
     ]
 }
