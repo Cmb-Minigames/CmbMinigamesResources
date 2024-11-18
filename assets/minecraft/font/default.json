@@ -160,6 +160,13 @@
             "ascent": -10,
             "height": 10,
             "chars": ["\uE00C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "cmbminigames:font/cmb_minigame_title.png",
+            "ascent": 10,
+            "height": 90,
+            "chars": ["\uE00E"]
         }
     ]
 }
