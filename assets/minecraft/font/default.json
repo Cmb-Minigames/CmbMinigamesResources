@@ -16,34 +16,6 @@
         },
         {
             "type": "bitmap",
-            "file": "cmbminigames:font/empty_red_point.png",
-            "ascent": 7,
-            "height": 8,
-            "chars": ["\u00AD"]   
-        },
-        {
-            "type": "bitmap",
-            "file": "cmbminigames:font/empty_blue_point.png",
-            "ascent": 7,
-            "height": 8,
-            "chars": ["\u180B"]   
-        },
-        {
-            "type": "bitmap",
-            "file": "cmbminigames:font/claimed_red_point.png",
-            "ascent": 7,
-            "height": 8,
-            "chars": ["\u180D"]   
-        },
-        {
-            "type": "bitmap",
-            "file": "cmbminigames:font/claimed_blue_point.png",
-            "ascent": 7,
-            "height": 8,
-            "chars": ["\u180E"]   
-        },
-        {
-            "type": "bitmap",
             "file": "cmbminigames:font/question_mark.png",
             "ascent": 7,
             "height": 8,
