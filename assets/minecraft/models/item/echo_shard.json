@@ -27,6 +27,12 @@
                 "custom_model_data": 4
             },
             "model": "cmbminigames:item/star_shower"
+        },
+        {
+            "predicate":{
+                "custom_model_data": 5
+            },
+            "model": "cmbminigames:item/inventory"
         }
     ]
 }
