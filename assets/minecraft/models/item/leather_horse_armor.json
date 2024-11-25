@@ -9,6 +9,18 @@
                 "custom_model_data": 1
             },
             "model": "cmbminigames:cosmetic/crt_monitor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "cmbminigames:cosmetic/headphones"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "cmbminigames:cosmetic/crane_head"
         }
     ]
 }

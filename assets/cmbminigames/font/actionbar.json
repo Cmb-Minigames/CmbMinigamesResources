@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                " ": 4
+            }
+        },
+        {
+            "type": "ttf",
+            "file": "cmbminigames:minecraftia.ttf",
+            "shift": [
+                2.0,
+                39.5
+            ],
+            "size": 11,
+            "oversample": 4
+        },
+        {
+            "type": "bitmap",
+            "file": "cmbminigames:font/star.png",
+            "ascent": -22,
+            "height": 11,
+            "chars": [
+                "⭐"
+            ]
+        }
+    ]
+}
