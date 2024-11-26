@@ -21,6 +21,12 @@
                 "custom_model_data": 3
             },
             "model": "cmbminigames:cosmetic/crane_head"
+        },
+        {
+            "predicate":{
+                "custom_model_data": 5
+            },
+            "model": "cmbminigames:cosmetic/gd_head"
         }
     ]
 }
