@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/star_shower"
+        "layer0": "cmbminigames:item/star_shower"
     }
 }

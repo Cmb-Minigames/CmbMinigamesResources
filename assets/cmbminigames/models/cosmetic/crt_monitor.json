@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "cmbminigames:block/crt_screen",
-		"particle": "cmbminigames:block/crt_screen"
+		"0": "cmbminigames:block/cosmetic/crt/crt_screen",
+		"particle": "cmbminigames:block/cosmetic/crt/crt_screen"
 	},
 	"elements": [
 		{
@@ -22,6 +22,7 @@
 	"gui_light": "front",
 	"display": {
 		"gui": {
+			"rotation": [11, 23, 0],
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {
