@@ -27,6 +27,12 @@
                 "custom_model_data": 4
             },
             "model": "cmbminigames:cosmetic/cat_ears"
+        },
+        {
+            "predicate":{
+                "custom_model_data": 5
+            },
+            "model": "cmbminigames:cosmetic/gd_head"
         }
     ]
 }
