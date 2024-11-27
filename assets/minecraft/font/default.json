@@ -132,6 +132,13 @@
             "ascent": 7,
             "height": 8,
             "chars": ["⚔"]
+        },
+        {
+            "type": "bitmap",
+            "file": "cmbminigames:font/sniffer_caretaker_instructions.png",
+            "ascent": 7,
+            "height": 120,
+            "chars": ["\uE017"]
         }
     ]
 }
