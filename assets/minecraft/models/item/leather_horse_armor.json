@@ -33,6 +33,12 @@
                 "custom_model_data": 5
             },
             "model": "cmbminigames:cosmetic/gd_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "cmbminigames:cosmetic/sink"
         }
     ]
 }
