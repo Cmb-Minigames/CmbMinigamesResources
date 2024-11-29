@@ -39,6 +39,12 @@
                 "custom_model_data": 6
             },
             "model": "cmbminigames:cosmetic/sink"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "cmbminigames:cosmetic/shark"
         }
     ]
 }
