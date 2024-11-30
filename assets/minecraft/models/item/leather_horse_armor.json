@@ -33,6 +33,18 @@
                 "custom_model_data": 5
             },
             "model": "cmbminigames:cosmetic/gd_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "cmbminigames:cosmetic/sink"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "cmbminigames:cosmetic/shark"
         }
     ]
 }
