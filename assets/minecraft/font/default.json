@@ -2,6 +2,34 @@
     "providers": [
         {
             "type": "bitmap",
+            "file": "cmbminigames:font/owner_name_plate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "cmbminigames:font/developer_name_plate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE00D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "cmbminigames:font/moderator_name_plate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "cmbminigames:font/tester_name_plate.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
             "file": "cmbminigames:font/players.png",
             "ascent": 7,
             "height": 8,
@@ -20,34 +48,6 @@
             "ascent": 7,
             "height": 8,
             "chars": ["❓"]
-        },
-        {
-            "type": "bitmap",
-            "file": "cmbminigames:font/owner_name_plate.png",
-            "ascent": 7,
-            "height": 8,
-            "chars": ["\uE000"]
-        },
-        {
-            "type": "bitmap",
-            "file": "cmbminigames:font/tester_name_plate.png",
-            "ascent": 7,
-            "height": 8,
-            "chars": ["\uE001"]
-        },
-        {
-            "type": "bitmap",
-            "file": "cmbminigames:font/moderator_name_plate.png",
-            "ascent": 7,
-            "height": 8,
-            "chars": ["\uE002"]
-        },
-        {
-            "type": "bitmap",
-            "file": "cmbminigames:font/developer_name_plate.png",
-            "ascent": 7,
-            "height": 8,
-            "chars": ["\uE00D"]
         },
         {
             "type": "bitmap",
