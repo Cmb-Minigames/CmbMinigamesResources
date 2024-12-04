@@ -51,6 +51,18 @@
                 "custom_model_data": 8
             },
             "model": "cmbminigames:cosmetic/oragami_crane"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "cmbminigames:cosmetic/demon_horns"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "cmbminigames:cosmetic/angelic"
         }
     ]
 }
