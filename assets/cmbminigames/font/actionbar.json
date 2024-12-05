@@ -10,10 +10,10 @@
             "type": "ttf",
             "file": "cmbminigames:minecraftia.ttf",
             "shift": [
-                2.0,
-                39.5
+                -60.0,
+                37
             ],
-            "size": 11,
+            "size": 7.5,
             "oversample": 4
         },
         {
@@ -23,6 +23,15 @@
             "height": 11,
             "chars": [
                 "⭐"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "cmbminigames:font/stars_panel.png",
+            "ascent": -23,
+            "height": 11,
+            "chars": [
+                "\uE000"
             ]
         }
     ]
