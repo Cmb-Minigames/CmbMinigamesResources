@@ -8,10 +8,10 @@
         },
         {
             "type": "ttf",
-            "file": "cmbminigames:minecraftia.ttf",
+            "file": "cmbminigames:monocraft.ttf",
             "shift": [
                 -60.0,
-                37
+                32
             ],
             "size": 7.5,
             "oversample": 4
