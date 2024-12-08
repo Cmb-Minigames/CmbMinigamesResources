@@ -63,6 +63,18 @@
                 "custom_model_data": 10
             },
             "model": "cmbminigames:cosmetic/angelic"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "cmbminigames:cosmetic/wizard"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "cmbminigames:cosmetic/clown"
         }
     ]
 }
