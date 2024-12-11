@@ -75,6 +75,24 @@
                 "custom_model_data": 12
             },
             "model": "cmbminigames:cosmetic/clown"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "cmbminigames:cosmetic/bunny"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "cmbminigames:cosmetic/goose"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "cmbminigames:cosmetic/ufo"
         }
     ]
 }
